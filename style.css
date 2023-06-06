@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+
+}
+.pagina{
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   margin-right: 1200px;
+
+}
+.saldo{
+    background-color:chocolate;
+    padding: 6px;
+    border-radius: 45px;
+
+    margin-right: 150px;
+    text-align: center;
+}
+.cartão{
+    padding: 6px;
+    border-radius: 45px;
+
+    margin-right: 150px;
+}
+.pix{
+    padding: 6px;
+    border-radius: 45px;
+
+    margin-right: 150px;
+}
+.adi_car{
+    text-align: center;
+}
+.plano{
+    background-color: gray;
+    border-radius: 45px;
+    padding: 5px;
+}
